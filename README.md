@@ -4,7 +4,7 @@
 Full-Stack Warehouse Inventory Management System (WIMS)
 
 Status: In Development  
-Estimated Completion: 04/03/2026 - 7 days from today]
+Estimated Completion: [04/03/2026 - 7 days from today]
 
 ## Project Overview
 This project simulates a Warehouse Management System (WMS) built using:
